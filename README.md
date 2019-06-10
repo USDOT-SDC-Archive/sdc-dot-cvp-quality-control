@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/usdot-jpo-sdc/sdc-dot-cvp-quality-control.svg?branch=master)](https://travis-ci.com/usdot-jpo-sdc/sdc-dot-cvp-quality-control)
 # sdc-dot-cvp-quality-control
 US Department of Transportation (USDOT) Intelligent Transportation Systems Secure Data Commons (ITS SDC). Connected Vehicle Pilots (CVP) data quality control and verification tools.
 
