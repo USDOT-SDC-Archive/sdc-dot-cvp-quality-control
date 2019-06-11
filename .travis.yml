@@ -9,7 +9,6 @@ branches:
     only:
         - master
         - develop
-
 addons:
     sonarcloud:
         organization: "usdot-jpo-sdc"
