@@ -5,6 +5,10 @@ before_install:
     - sudo rm -f /etc/boto.cfg
 install:
     - pip install coverage
+branches:
+    only:
+        - master
+        - develop
 
 addons:
     sonarcloud:
